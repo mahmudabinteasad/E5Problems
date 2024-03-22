@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c7129b-8ef7-4ec1-8fef-98e3a1baa43c" name="Changes" comment="E5.3">
-      <change afterPath="$PROJECT_DIR$/src/StringCompare.java" afterDir="false" />
+    <list default="true" id="a5c7129b-8ef7-4ec1-8fef-98e3a1baa43c" name="Changes" comment="E5.4">
+      <change afterPath="$PROJECT_DIR$/src/HalfWordComparison.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,14 +23,14 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="E5.3" />
+        <entry key="$PROJECT_DIR$" value="E5.4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2dxfHI1w0vsSkMIqKNU3S941R4L" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -43,11 +43,12 @@
   "keyToString": {
     "Application.DigitCounter.executor": "Run",
     "Application.FloatingPoint.executor": "Run",
+    "Application.HalfWordComparison.executor": "Run",
     "Application.PositiveNegative.executor": "Run",
     "Application.StringCompare.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "E5.4",
+    "git-widget-placeholder": "E5.5",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
@@ -84,13 +85,22 @@
       <option name="project" value="LOCAL" />
       <updated>1710957464106</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="E5.4">
+      <option name="closed" value="true" />
+      <created>1710958255395</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710958255395</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="E5.1" />
     <MESSAGE value="E5.2" />
     <MESSAGE value="E5.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="E5.3" />
+    <MESSAGE value="E5.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="E5.4" />
   </component>
 </project>
